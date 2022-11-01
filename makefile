@@ -17,4 +17,5 @@ html:		$(HTMLS)
 %.html:		%.md
 		pandoc  $< -o $@ \
 		$(PANDOC_ARGS)
-		open $@
+		mv $@ ~/Dropbox/Website/robertmatyasi\.github\.io/
+		open ~/Dropbox/Website/robertmatyasi\.github\.io/$@

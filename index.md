@@ -13,7 +13,7 @@ PhD from the University of Toronto in 2021.
 
 I am from [Pécs](https://en.wikipedia.org/wiki/Pécs).
 
-##### Publications { style="margin-top: 30px" }
+##### Publications { style="margin-top: 25px" }
 
 [Spinoza on Composition, Monism and Beings of Reason](http://doi.org/10.32881/jomp.74). Journal of Modern Philosophy 2(1). 2020.
 
@@ -21,7 +21,7 @@ I am from [Pécs](https://en.wikipedia.org/wiki/Pécs).
 
 (with Karolina Hübner) [*Reconceiving Spinoza*, by Samuel Newlands](https://doi.org/10.1093/mind/fzz015). Mind 129(513). 2020.
 
-##### Teaching { style="margin-top: 30px" }
+##### Teaching { style="margin-top: 25px" }
 
 - Topics in 17th and 18th century philosophy, 300-level,  University of Toronto St. George, Summer 2021, [syllabus](files/Matyasi_PHL313_Syllabus_reading-list.pdf)
 - 17th and 18th century philosophy, 200-level, University of Toronto Mississauga, Winter 2020, [syllabus](files/210_readings_winter_2020-21.pdf)
@@ -30,7 +30,7 @@ I am from [Pécs](https://en.wikipedia.org/wiki/Pécs).
 
 *See my [cv](files/matyasi_cv.pdf) for my complete teaching profile.*
 
-##### Writing for general audience (in Hungarian) { style="margin-top: 30px" }
+##### Writing for general audience (in Hungarian) { style="margin-top: 25px" }
 
 For the Kiskáté column in Műút:
 
@@ -40,9 +40,7 @@ For the Kiskáté column in Műút:
 - [Daniel Z. Korman: Objects: Nothing out of the Ordinary](http://www.muut.hu/archivum/19956)
 - [Herman Cappelen: Philosophy without Intuitions](http://www.muut.hu/archivum/14323) (with Tibor Bárány)
 - [Timothy Williamson: Modal Logic as Metaphysics](http://www.muut.hu/archivum/12867)
-- Some of the articles above appear in the collection:
-
-    [Kiskáté. Kortárs filozófiai kiskönyvtár.](http://www.muut.hu/archivum/25983) Tibor Bárány, László Jenei (editors), Műút Könyvek, Miskolc, 2017.
+- Some of the articles above appear in the 2017 collection [Kiskáté. Kortárs filozófiai kiskönyvtár.](http://www.muut.hu/archivum/25983)
 
 For Jelenkor:
 

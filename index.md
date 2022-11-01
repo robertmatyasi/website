@@ -1,7 +1,8 @@
 ---
 title: Róbert Mátyási's website
 name: Róbert Mátyási
-links: "[email](mailto:matyasir@sas.upenn.edu) | [cv](files/matyasi_cv.pdf) | [philpapers](https://philpeople.org/profiles/robbie-matyasi) | [github](https://github.com/robertmatyasi)"
+links: |
+    [email](mailto:matyasir@sas.upenn.edu) | [cv](files/matyasi_cv.pdf) | [philpapers](https://philpeople.org/profiles/robbie-matyasi) | [github](https://github.com/robertmatyasi)
 bio: |
     Academic philosopher. Hobby coder.
 

@@ -7,9 +7,7 @@ picture: |
     ![*Spinoza as a part of nature in Rijnsburg.*](files/spinoza.jpg){ width=100% }
 ...
 
-Academic philosopher. Hobby coder.
-
-PhD from the University of Toronto in 2021.
+PhD in Philosophy from the University of Toronto in 2021.
 
 I am from [Pécs](https://en.wikipedia.org/wiki/Pécs).
 

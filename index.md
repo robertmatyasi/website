@@ -2,12 +2,14 @@
 title: Róbert Mátyási's website
 name: Róbert Mátyási
 links: |
-    [email](mailto:matyasir@sas.upenn.edu) | [cv](files/matyasi_cv.pdf) | [philpapers](https://philpeople.org/profiles/robbie-matyasi) | [github](https://github.com/robertmatyasi)
+    [email](mailto:rmatyasi@sju.edu) | [cv](files/matyasi_cv.pdf) | [philpapers](https://philpeople.org/profiles/robbie-matyasi) | [github](https://github.com/robertmatyasi)
 picture: |
     ![*Spinoza as a part of nature in Rijnsburg.*](files/spinoza.jpg){ width=100% }
 ...
 
-PhD in Philosophy from the University of Toronto in 2021.
+I am an adjunct professor in philosophy at [Saint Joseph's University](https://www.sju.edu/departments/philosophy/faculty/part-time).
+
+PhD from the University of Toronto in 2021.
 
 I am from [Pécs](https://en.wikipedia.org/wiki/Pécs).
 
@@ -21,6 +23,7 @@ I am from [Pécs](https://en.wikipedia.org/wiki/Pécs).
 
 ##### Teaching { style="margin-top: 25px" }
 
+- Moral Foundations, 100-level, Saint Joseph's University, Spring 2024, [syllabus](files/matyasi_phl154_syllabus.pdf)
 - Topics in 17th and 18th century philosophy, 300-level,  University of Toronto St. George, Summer 2021, [syllabus](files/Matyasi_PHL313_Syllabus_reading-list.pdf)
 - 17th and 18th century philosophy, 200-level, University of Toronto Mississauga, Winter 2020, [syllabus](files/210_readings_winter_2020-21.pdf)
 - 17th and 18th century philosophy, 200-level, University of Toronto St. George, Summer 2020, [syllabus](files/Matyasi_PHL210_Reading-list_2020.pdf)

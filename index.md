@@ -7,6 +7,8 @@ picture: |
     ![*Spinoza as a part of nature in Rijnsburg.*](files/spinoza.jpg){ width=100% }
 ...
 
+![](files/portrait.jpg){width=25%}
+
 I am an adjunct professor in philosophy at [Saint Joseph's University](https://www.sju.edu/departments/philosophy/faculty/part-time).
 
 PhD from the University of Toronto in 2021.

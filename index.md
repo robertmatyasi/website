@@ -7,9 +7,9 @@ picture: |
     ![*Spinoza as a part of nature in Rijnsburg.*](files/spinoza.jpg){ width=100% }
 ...
 
-![](files/portrait.jpg){width=25%}
+![](files/portrait.jpg){class=img.fluid}
 
-I am an adjunct professor in philosophy at [Saint Joseph's University](https://www.sju.edu/departments/philosophy/faculty/part-time).
+I write about Spinoza and history of early modern philosophy and teach at [Saint Joseph's University](https://www.sju.edu/departments/philosophy/faculty/part-time).
 
 PhD from the University of Toronto in 2021.
 
@@ -35,7 +35,7 @@ I am from [Pécs](https://en.wikipedia.org/wiki/Pécs).
 
 ##### Writing for general audience (in Hungarian) { style="margin-top: 25px" }
 
-For the Kiskáté column in Műút:
+In Műút:
 
 - [Stephen Menn, Justin E.H. Smith: Anton Wilhelm Amo's Philosophical Dissertations on Mind and Body](https://www.muut.hu/archivum/38177)
 - [Michael O. Hardimon: Rethinking Race](http://www.muut.hu/archivum/34422)
@@ -45,7 +45,7 @@ For the Kiskáté column in Műút:
 - [Timothy Williamson: Modal Logic as Metaphysics](http://www.muut.hu/archivum/12867)
 - Some of the articles above appear in the 2017 collection [Kiskáté. Kortárs filozófiai kiskönyvtár.](http://www.muut.hu/archivum/25983)
 
-For Jelenkor:
+In Jelenkor:
 
 - [Bagi Zsolt: Helyi Arcok, Egyetemes Tekintetek. Facies Localis Universi.](http://www.jelenkor.net/archivum/cikk/2806/elszamolni-a-tomegekkel)
 - [Paul Verhaeghen: Omega Minor.](http://www.jelenkor.net/archivum/cikk/2459/pesszimizmust-kovacsolni-a-nihilizmusbol)

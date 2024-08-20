@@ -9,7 +9,7 @@ picture: |
 
 ![](files/portrait.jpg){class=img.fluid}
 
-I write about Spinoza and history of early modern philosophy and teach at [Saint Joseph's University](https://www.sju.edu/departments/philosophy/faculty/part-time).
+I teach philosophy at [Saint Joseph's University](https://www.sju.edu/departments/philosophy/faculty/part-time).
 
 PhD from the University of Toronto in 2021.
 
@@ -25,7 +25,7 @@ I am from [Pécs](https://en.wikipedia.org/wiki/Pécs).
 
 ##### Teaching { style="margin-top: 25px" }
 
-- Moral Foundations, 100-level, Saint Joseph's University, Spring 2024, [syllabus](files/matyasi_phl154_syllabus.pdf)
+- Moral Foundations, 100-level, Saint Joseph's University, Spring & Fall 2024, [syllabus](files/matyasi_phl154_syllabus_24F.pdf)
 - Topics in 17th and 18th century philosophy, 300-level,  University of Toronto St. George, Summer 2021, [syllabus](files/Matyasi_PHL313_Syllabus_reading-list.pdf)
 - 17th and 18th century philosophy, 200-level, University of Toronto Mississauga, Winter 2020, [syllabus](files/210_readings_winter_2020-21.pdf)
 - 17th and 18th century philosophy, 200-level, University of Toronto St. George, Summer 2020, [syllabus](files/Matyasi_PHL210_Reading-list_2020.pdf)

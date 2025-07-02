@@ -11,8 +11,6 @@ picture: |
 
 I teach philosophy at [Saint Joseph's University](https://www.sju.edu/departments/philosophy/faculty/part-time).
 
-PhD from the University of Toronto in 2021.
-
 I am from [Pécs](https://en.wikipedia.org/wiki/Pécs).
 
 ##### Publications { style="margin-top: 25px" }
@@ -21,11 +19,13 @@ I am from [Pécs](https://en.wikipedia.org/wiki/Pécs).
 
 (with Karolina Hübner) [Spinoza on Expression and Grounds of Intelligibility](https://doi.org/10.1093/pq/pqab056), *Philosophical Quarterly*, 72(3). 2022.
 
+[Expression](https://www.cambridge.org/core/books/abs/cambridge-spinoza-lexicon/expression/27E3F0D2C757EEAD6CE8B08CEECDA16C). Cambridge Spinoza Lexicon. 2024.
+
 (with Karolina Hübner) [*Reconceiving Spinoza*, by Samuel Newlands](https://doi.org/10.1093/mind/fzz015). Mind 129(513). 2020.
 
 ##### Teaching { style="margin-top: 25px" }
 
-- Moral Foundations, 100-level, Saint Joseph's University, Spring & Fall 2024, [syllabus](files/matyasi_phl154_syllabus_24F.pdf)
+- Moral Foundations, 100-level, Saint Joseph's University, 2024 - 25, [syllabus](files/matyasi_phl154_syllabus_25s.pdf)
 - Topics in 17th and 18th century philosophy, 300-level,  University of Toronto St. George, Summer 2021, [syllabus](files/Matyasi_PHL313_Syllabus_reading-list.pdf)
 - 17th and 18th century philosophy, 200-level, University of Toronto Mississauga, Winter 2020, [syllabus](files/210_readings_winter_2020-21.pdf)
 - 17th and 18th century philosophy, 200-level, University of Toronto St. George, Summer 2020, [syllabus](files/Matyasi_PHL210_Reading-list_2020.pdf)
